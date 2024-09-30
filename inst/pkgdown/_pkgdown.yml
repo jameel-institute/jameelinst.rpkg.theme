@@ -1,0 +1,24 @@
+template:
+  bootstrap: 5
+  bslib:
+    base_font: {google: "Inter"}
+    heading_font: {google: "Inter"}
+    code_font: {google: "Source Code Pro"}
+  light-switch: true
+  theme-dark: github-dark
+  includes:
+    before_title: '<a href="https://www.imperial.ac.uk/jameel-institute/"><img src="man/figures/logo_imperial_white.svg" id="logo" alt="Abdul Latif Jameel Institute for Disease and Emergency Analytics"></a>'
+
+development:
+  mode: auto
+
+figures:
+  fig.width: 8
+  fig.height: 6
+  other.parameters:
+    fig.showtext: true
+
+
+home:
+  sidebar:
+    structure: [links, license, community, citation, authors, dev, logo]
