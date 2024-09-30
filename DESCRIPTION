@@ -1,0 +1,16 @@
+Package: jameelinst.rpkg.theme
+Title: A 'pkgdown' Template for Jameel Institute Packages
+Version: 0.0.0.9000
+Authors@R: 
+    person("Pratik", "Gupte", , "p.gupte24@imperial.ac.uk", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-5294-7819"))
+Description: Package website colours and logos taken from the Imperial
+    College London and Jameel Institute brand guidelines.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Imports: 
+    pkgdown (>= 2.1.0)
+Encoding: UTF-8
+Language: en-GB
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
