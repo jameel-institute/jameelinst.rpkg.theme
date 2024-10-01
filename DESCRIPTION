@@ -8,6 +8,8 @@ Description: Package website colours and logos taken from the Imperial
     College London and Jameel Institute brand guidelines.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
+URL: https://github.com/j-idea/jameel-institute/jameelinst.rpkg.theme,
+    https://jameel-institute.github.io/jameelinst.rpkg.theme
 Imports: 
     pkgdown (>= 2.1.0)
 Encoding: UTF-8
