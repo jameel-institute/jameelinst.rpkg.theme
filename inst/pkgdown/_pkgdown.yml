@@ -7,7 +7,7 @@ template:
   light-switch: true
   theme-dark: github-dark
   includes:
-    before_title: '<a href="https://www.imperial.ac.uk/jameel-institute/"><img src="https://github.com/jameel-institute/jameelinst.rpkg.theme.github.io/logo_imperial_white.svg" id="logo" alt="Abdul Latif Jameel Institute for Disease and Emergency Analytics"></a>'
+    before_title: '<a href="https://www.imperial.ac.uk/jameel-institute/"><img src="https://raw.githubusercontent.com/jameel-institute/jameelinst.rpkg.theme/refs/heads/main/inst/pkgdown/assets/logo_imperial_white.svg" id="logo" alt="Abdul Latif Jameel Institute for Disease and Emergency Analytics"></a>'
 
 development:
   mode: auto
