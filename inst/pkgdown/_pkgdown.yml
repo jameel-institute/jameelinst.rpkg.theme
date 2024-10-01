@@ -21,4 +21,4 @@ figures:
 
 home:
   sidebar:
-    structure: [links, license, community, citation, authors, dev, logo]
+    structure: [links, license, community, citation, authors, dev]
