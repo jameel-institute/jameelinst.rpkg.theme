@@ -1,9 +1,12 @@
 Package: jameelinst.rpkg.theme
 Title: A 'pkgdown' Template for Jameel Institute Packages
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R: c(
     person("Pratik", "Gupte", , "p.gupte24@imperial.ac.uk", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-0001-5294-7819"))
+           comment = c(ORCID = "0000-0001-5294-7819")),
+    person("Abdul Latif Jameel Institute for Disease and Emergency Analytics", role = c("cph", "fnd")),
+    person("Imperial College of Science, Technology and Medicine", role = c("cph", "fnd"))
+  )
 Description: Package website colours and logos taken from the Imperial
     College London and Jameel Institute brand guidelines.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
