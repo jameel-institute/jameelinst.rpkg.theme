@@ -6,6 +6,7 @@ template:
     code_font: {google: "Source Code Pro"}
   light-switch: true
   theme-dark: github-dark
+  math-rendering: mathjax
   includes:
     before_title: '<a href="https://www.imperial.ac.uk/jameel-institute/"><img src="https://raw.githubusercontent.com/jameel-institute/jameelinst.rpkg.theme/refs/heads/main/inst/pkgdown/assets/logo_imperial_jameel.svg" id="logo" alt="Abdul Latif Jameel Institute for Disease and Emergency Analytics"></a>'
 
